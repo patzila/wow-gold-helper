@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wow-gold-helper/static/css/main.266173d9.chunk.css",
+    "main.js": "/wow-gold-helper/static/js/main.69db5817.chunk.js",
+    "main.js.map": "/wow-gold-helper/static/js/main.69db5817.chunk.js.map",
+    "runtime-main.js": "/wow-gold-helper/static/js/runtime-main.6087d62b.js",
+    "runtime-main.js.map": "/wow-gold-helper/static/js/runtime-main.6087d62b.js.map",
+    "static/js/2.a7988e26.chunk.js": "/wow-gold-helper/static/js/2.a7988e26.chunk.js",
+    "static/js/2.a7988e26.chunk.js.map": "/wow-gold-helper/static/js/2.a7988e26.chunk.js.map",
+    "index.html": "/wow-gold-helper/index.html",
+    "precache-manifest.7e23ce031b853ed5eda8cb925bdf4b8f.js": "/wow-gold-helper/precache-manifest.7e23ce031b853ed5eda8cb925bdf4b8f.js",
+    "service-worker.js": "/wow-gold-helper/service-worker.js",
+    "static/css/main.266173d9.chunk.css.map": "/wow-gold-helper/static/css/main.266173d9.chunk.css.map",
+    "static/js/2.a7988e26.chunk.js.LICENSE.txt": "/wow-gold-helper/static/js/2.a7988e26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6087d62b.js",
+    "static/js/2.a7988e26.chunk.js",
+    "static/css/main.266173d9.chunk.css",
+    "static/js/main.69db5817.chunk.js"
+  ]
+}
